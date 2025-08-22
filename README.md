@@ -1,15 +1,19 @@
-# Jogo do Scratch
+# 🎮 Scratch Game – *Save Miss Pink*
 
-Este repositório contém um jogo criado no Scratch.
+This repository contains a **game developed in Scratch** as part of my learning journey in programming and game design.  
+The goal was to practice **logic, animations, and user interaction** in a creative way.
 
-## Como Jogar
+---
 
-1. Baixe o arquivo `.sb3` do repositório.
-2. Acesse o [Scratch](https://scratch.mit.edu/).
-3. Clique em "File" (Arquivo) > "Load from your computer" (Carregar do seu computador).
-4. Selecione o arquivo `.sb3` baixado.
-5. Clique na bandeira verde para iniciar o jogo.
+## 🚀 How to Play
+1. Go to the game page on Scratch: [Save Pink Adventure](https://scratch.mit.edu/projects/936210508/).  
+2. Press the **green flag** to start the game.
 
-## Sobre o Jogo
+## 🎯 Game Objective
+Use the **arrow keys** to guide the hero towards **Miss Pink**, while avoiding obstacles along the way.  
 
-Use as setas do cursor para levar o nosso heroi até à sua Miss Pink
+---
+
+## 📌 About
+This project is a creative example of applying logic and programming concepts in a visual environment.  
+It is part of my **Data Analyst / Data Enthusiast portfolio**, showcasing curiosity, problem-solving skills, and creativity.  
